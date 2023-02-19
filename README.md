@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f72db&height=120&section=header"/>
 
+<div align="center"> 
+  <h1>Oie, sou Eluma Carvalho :)<h1>   
+</div>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lumicarvalho&show_icons=true&count_private=true&hide_border=true&title_color=d2c7f1&icon_color=fed4d8&text_color=c9d1d9&bg_color=1b0f25" alt="Eluma Carvalho's GitHub Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumicarvalho&layout=compact&hide_border=true&title_color=d2c7f1&text_color=c9d1d9&bg_color=1b0f25" />
