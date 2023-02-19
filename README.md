@@ -20,7 +20,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-1b0f25?style=for-the-badge&logo=Typescript&labelColor=1b0f25)&nbsp;
 ![Python](https://img.shields.io/badge/-python-1b0f25?style=for-the-badge&logo=python&logoColor=purple&labelColor=1b0f25)&nbsp; 
 
-### Studying in this moment:
+### Estudando no momento:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1b0f25?style=for-the-badge&logo=javascript&labelColor=1b0f25)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-1b0f25?style=for-the-badge&logo=Typescript&labelColor=1b0f25)&nbsp;
 ![Python](https://img.shields.io/badge/-python-1b0f25?style=for-the-badge&logo=python&logoColor=purple&labelColor=1b0f25)&nbsp; 
